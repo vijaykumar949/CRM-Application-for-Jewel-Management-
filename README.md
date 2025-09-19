@@ -1,1 +1,21 @@
-# CRM-Application-for-Jewel-Management-
+NAAN MUDHALVAN SALESFORCE PROJECT - SMART INTERNZ TOPIC: CRM APPLICATION FOR JEWEL MANAGEMENT SYSTEM (DEVELOPER)
+
+COLLEGE NAME : Sri Krishna Adithya College of Arts and Science.
+	
+COLLEGE CODE :  bruag
+
+TEAM ID : NM2025TMID22283
+
+TEAM MEMBERS - 4
+
+TEAM LEADER NAME:  VIJAYA KUMAR M
+Email: 23bsit263vijayakumarm@skacas.ac.in
+
+TEAM MEMBER NAME: VIJAY C
+Email: 23bsit262vijayc@skacas.ac.in
+
+TEAM MEMBER NAME: JAYA PRAKASH E
+Email: 23bsit227jayaprakashe@skacas.ac.in
+
+TEAM MEMBER NAME:  NAVEEN N
+Email: 23bsit147naveenn@skacas.ac.in
